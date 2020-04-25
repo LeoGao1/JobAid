@@ -1,0 +1,64 @@
+company Name,Question
+NorthsideIndependentSchoolDistrict," If I face a total systems failure, what would I do?"
+NorthsideIndependentSchoolDistrict," Would I sign contract for training (30 months, 100% repayment, plus travel expenses, plus room, plus meals at 21% interest), payable for any reason for separation including laid off, job cut, budget cut."
+Meditech, What are some negative experiences you had at work? How did you handle them?
+AdvancedAmericanCollege, simple questions more less technical questions 
+OxfordGlobalResources," The most difficult question was about my weaknesses. However, I have learned how to handle that particular question. Other difficult questions were technical in nature. For example, questions about web servers and dot net applications."
+ClearwaterAnalytics, various coding examples and logic problems
+WorkforceLogiq," During phone interview, which was from India. The Interviewer was asking a series of SQL questions."
+AdvantageSCI, How would you address Management if your cost estimate was way too low from the contract cost?
+TR3Solutions, What are some possible conditions that could affect late deliveries in the supply chain?
+RetailSolutions, Nothing much really but one individual ask more nuts and bold questions. What is the size of big int or 10 min to build tree structure
+RDX," Questions about backups and restores, also asked about tools I had used, some T-SQL questions as well"
+Hightail, Do you know MySQL?
+SurveyMonkey," Backups,Restores,Performance tuning ,SQL Development questions, AWS experience, SP tuning, Index management, Partitioning, Always-on features, Covered all the areas of SQL. "
+Barnes-JewishHospital, What experience do you have with SQL Server Reporting Services?
+LegalZoom, basic sql dba related questions
+Google, SQL question related to self-joining and reasons for doing same.
+Morningstar," We have data that gets loaded once a week. With that in mind we have an application that clients enter search data in to and then SQL has to dynamically build a statement that has 25 different data points/relationships. It works fine, but takes upwards of 30 seconds to return the data to the client. You can not change the existing schema, but you can however add to it. Indexes are already present and optimized on all the different tables. What could you do to make this process much faster??"
+Google, How would you push out a software update to a multitude of clients.
+NRT, First question: Tell me about page latching.
+WageWorks, How do you use SQL Scripting on a daily basis. 
+EmergingHealthInformationTechnology, What did you do at your last job.
+HaasAutomation, What is the ascii code for line feed? 
+GreenwayHealth, What's the difference between TRUNCATE and DELETE
+ISCS, None that I could not answer with conviction or clarification.
+DoblerConsulting, What's the longest piece of code you've written?
+BerkshireHathaway, If I knew what the cross apply operator was
+WellsFargo, How would you fill a bus full with golf balls?
+ADP, Tell me how you would approach a business requirements problem
+ikaSystems, 3 SQL Server senarios.
+OneNeck," What kind of JOIN makes a ""NULL""?"
+LashGroup, How do you send an email with an attachment from an SSIS package?
+OneNeck, Talk about a CASE statement.
+Acrometis, Asked me to tell them about myself and what are my plans for the next five years
+ArrowstreetCapital, 2 hrs sql test is on a computer where the database is build and the questions to related to the data in the tables.
+GuntherDouglas, Describe my experience with ETL and Accounting Procedures.
+CCSGlobalTech," Left,right,inner joins"
+CareAmbulanceService, will you be able to do help desk job?
+FortressInvestmentGroup, Difference between Right and Left Joins
+AmericanInstitutesforResearch, Lots of questions about Microsoft Best Practices. Best to study beforehand as they expect you to have the answers memorized.
+Pentius, Nothing difficult or technical -- basic questions like when was the last time you used ASP? And SQL?
+AspenDental, What is your experience with query tuning?
+Fanatics, What is Stored Proc
+FINCAInternational, How much experience do you have with data warehousing?
+PeopleScout, Tell me why should we hire you
+ICWGroup, None
+MitchellInternational, interview faqs are very common ones. Just google for plsql developer interview questions.
+AnonymousAlerts, How do you create database?
+AnonymousAlerts, What are the types of constraints for the table?
+AnonymousAlerts, Joins?
+LakePharma, Could you work at night and on the weekend? What are your difficulties in doing research? What is your teamwork experience?
+BeaconTechnologiesGroup, 1 reverse a string 2 fibonnaci series 3 Deadlock 4 tree traversal 5 sorting algorithm 6 process vs threads 7 some behavioral 8 basics about database join 
+HillPhysiciansMedicalGroup, Code in MDX for finding the paid amount over a period of six months during a certain fiscal year.
+JanneyMontgomeryScott, Knowledge about BI structure
+RandstadUS, Was I submitted to this client by other recruiters? Have I applied myself thru this client's website? Could I send them my past submissions list?
+SouthernManagementCorporation, What do you do to optimize sql queries?
+AmericanSpecialtyHealth, They asked me very technical questions for the position.
+SouthernManagementCorporation, What is the difference between DELETE and TRUNCATE?
+VForceInfotech, how much do you expect for the job. 
+LoreSoftwareSolutions," 1.DDL,DML,TCL"
+PublicisSapient, How to enter variable in SQL routines
+ISNSoftware, Tell me about yourself. (Or Tell me 3 things about yourself.)
+MouserElectronics," What Is DDL, DML, Type of constraints, etc."
+ISNSoftware," If you have a left join with criteria, how does moving criteria in to the where statement change the query?"

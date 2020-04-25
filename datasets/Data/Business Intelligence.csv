@@ -1,0 +1,101 @@
+company Name,Question
+NestléUSA," Explain/define ""Weighted Average""."
+Wayfair," 50,000 shoppers with a 0.5% conversion rate for a chair that costs $250. Wayfair makes a 27% profit. Next, 50,000 shoppers will get a 10% discount. What is the conversion rate they must achieve to achieve the same profits as before?"
+IBM," What reporting tools have you used? Actuate, Brio, Crystal Reports? How much experience have you had in scheduling jobs on Unix? Can you write XML and implement it?"
+WorldWideTechnology, Whats the difference between inner join and outer join?
+Accenture, Describe the different parts of an SQL statement
+BaylorScott&WhiteHealth," The typical ""difficult"" question that comes up in Business Intelligence is (and I'm paraphrasing), ""What's the best data warehouse solution?"". "
+MEC, What is a Cartesian product?
+UniversalHealthServices, What is a clustered/non clustered index.
+Amazon," You have a table called Order with Cust_ID, Order_Date, Order_ID, Tran_Amt. Select the top 100 customers with high spend over a year long period."
+Shopping.com, What is the market for tennis balls in your city?
+Yammer," You're playing a game with a friend where some third party flips a fair coin. You can choose a sequence of either Heads, Heads, Tails or Heads, Tails, Heads. Your friend gets the remaining sequence. Whoever's sequence occurs first wins. Which do you pick?"
+CharterCommunications, Describe your experience
+Logic20/20," If you were stuck on a desert island with a database that contained all the knowledge ever created, but you only had 10 SQL statements that you could ever use, what would they be?"
+Wayfair, The previous scenario actually happened. Would you give a 10% discount?
+DIAAssociates," Questions about life work balance, pressure handling and math questions and brain teaser"
+Target, Describe a difficult time you had with a co-worker/boss and how you resolved it.
+DellTechnologies, How would you design a packaged solution for customer needs
+UrbanScience, How many Ford trucks were sold in the US last year?
+CambiaHealthSolutions, None
+Neudesic, I was asked what the largest database I worked on was
+Adknowledge, The case study had a few ambiguous questions intended to demonstrate the thought process.
+7-Eleven," Discuss something that's not mentioned in your resume, and relates to this position."
+KraftHeinzCompany, Where do you see yourself in next 5 years if you decide to stay at Kraft?
+Ubisoft, just general questions
+Hanger, Give an example of a time when you influenced strategic decisions.
+Epic, They asked questions about solving problems programatically
+IBM, Tell me a few things about yourself?
+Amazon, What is the difference between DELETE and TRUNCATE? What is the difference between UNION and UNION ALL? What is the difference between a WHERE statement and a HAVING clause?
+PalantirTechnologies, Who are Palantir's top two competitors?
+MANDiesel&Turbo, Who is your role model? The questions were mostly behavioral. A lot of it was based on my previous work experience. They wanted to know how I would handle difficult work situations. 
+H.D.Smith, Given your breadth of experience would you become bored with this position?
+Syniverse, What would your employer say about you?
+Univision, What is your biggest fear
+Amazon, Describe the system architecture for a recommendation engine based on a customer's previous shopping history.
+SouthwestAirlines," Strengths,Weakness,Past work Ex,Resume Overview"
+DICK'SSportingGoods," ""Besides a school group project, when was a time that you went above and beyond in a group setting?"""
+TruMarkFinancial, Name a situation where you had to multitask
+Amazon, Describe with a written code example the usage of an Oracle RANK OVER PARTITION BY analytic function
+Accenture, How do you start a mapping in Informatica?
+Autodesk, What is the size of architecture CAD market in the USA?
+AmericanCreditAcceptance, What my feelings were about sub-prime lending.
+Neudesic," A lot of simple (what SQL Server I worked in the past with) and complicated questions about Transact-SQL, SSIS, SSRS, SSAS, schemes, data types, Business Intelligence, ETL."
+Sysco," The SAP contractors were most interested in knowing what is my opinion about their in-memory analysis product SAP HANA. There were no questions to assess my managerial capabilities rather the two junior people with Indian origin only focused on technical items such as the Business Objects software version I used, how long before."
+Accenture," After so many years at your previous employer, why do you want to leave and start all over on building your network?"
+Wayfair," Onsite Complex problem/presentation round (~30 min) - Choose the most complex analytical problem you've faced and make a presentation on how you went about solving it, either in academic scenario or in a professional capacity"
+Wayfair," Onsite technical round (~1 hour) - Given a model (used at Wayfair) about predicting seasonal trends, explain the code, what each line does, and provide context."
+"TravisCounty,Texas", Tell us about a boss that you didn't get along with and how you handled it.
+Wayfair, Why are you a good fit for wayfar?
+TheChurchofJesusChristofLatter-daySaints," Along with the usuals, he asked ""If it's 11:20 on an Analog clock, what is the angle between the two hands?"" (note: that includes the slight rotation of the hour hand between the hours). I got it wrong three times, but he didn't care. He said he just had to ask because it was required."
+BrownandCaldwell," Question: ""What do you think of working with women?"" "
+Unum, A list of 25 items were presented to the group which was split into 6 subgroups. 
+ZetaGlobal, hardest challenge?
+Wayfair, What do you like to do for fun?
+Genworth, How would I go about developing strategy for an organization based on my background.
+MercyHealth, Would you take two online assessments?
+HarlandClarke, How do I know you wont leave this job?
+AgeofLearning, Why do you want to work at Age of Learning?
+Branch, Identify the relationship between two variable.
+UTCAerospaceSystems, Tell me about yourself
+Justworks, Why Justworks?
+Wayfair," Online screening: 1. SQL: about movies 2 and 3 are analysis questions, 3 being ice cream shop sales and you need to do the analysis in excel Video interview: 1. Tell me about yourself 2. Would you send catalogues to people who clicked the website but did not make purchase or the ones that did recently 3. Cheap vs expensive catalogue."
+PepsiCo, Describe a time when you had to work on a team and how you overcome any difficulties.
+Centene, What was one time you had to resolve a conflict in a group? 
+AutoAnything, Walk me through a project development cycle as if you are coming up with a new project.
+LexisNexisLegal&Professional, How can I improve their team?
+RetailMeNot," Pretty basic - Tell us about yourself, basically walking through your resume"
+ICOGroup, Hoe do you innovate at work?
+GoDaddy, What is most important in selecting people to build a team for a project? Why?
+Bluprint, Describe a time when you had to deliver bad news and how you approached it
+Accenture, Asked to sketch out on a white board an entire data model -- caught me off guard but went fine.
+FifthThird, 1. How do you report on Type 2 dimensions? 2. How complex reports did you build? 3. Any experience on Query performance tuning.
+MINDBODY, Describe your typical work day in your current position.
+LivingSocial, How would I build out data tables for their different verticals
+USANAHealthSciences, Q: Which BI technologies have you worked with?
+USANAHealthSciences, Q: Why do you want to work for Usana?
+NestléUSA, How would you handle a situation where your manager/director says/does something controversial?
+NestléUSA, How would you handle a situation where a great idea of yours is held back by company regulations?
+Epic," The exam says no programming experience is required, but I found that to be not true."
+Wayfair, Why wayfair?
+NestléUSA, How many airplanes are currently in the air?
+TriumphFabrications--SanDiego, Tell me about yourself?
+NestléUSA, How many cabs are currently servicing Manhattan?
+Google, Basic sql and python questions
+EastWestBank, How do you design a SSIS package that waits for a file?
+RedBalloonSecurity, Decrypt and image and make a presentation.
+AllegiantTravel, What were the challenges you faced in your previous job? What do you know about allegiant business model?
+EastWestBank, What were some C# libraries and methods that you used?
+EastWestBank, Mock up some visualizations based on business requirements.
+CoreLogic, basic statistical and behavioral questions 
+Thorogood, How do you feel the day went? (regarding 10 hour 2nd interview)
+Kemper, How often did you have to research the source of your data without good documentation.
+ChamberlainGroup," They asked about my previous experiences, projects, internships."
+AdvisoryBoard, What are you most proud of?
+LillyPulitzer, Why do you want to work here?
+Owens&Minor, Give an instance where you had to get information from a dissatisfied client.
+ItlizeGlobal, go through your resume
+Amazon," If we want to know whether people like a product, is there any statistical problems you can see when the analysis is based on their behaviors on the websites? How do you combine text information into our recommendation system? How do you compare models by data visualization?"
+Christie's," Why Christie's, and why this role?"
+Wipro, The interview started with the common question 'Tell us about yourself' and all other questions were based on the same.
+CoxCommunications," They said was STAR question in the email, but actually basically no behavior questions. Asked how to deal with data in certain situtations."

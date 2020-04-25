@@ -1,0 +1,151 @@
+company Name,Question
+Adobe, How would you design a recommendation system (like amazon)?
+FidelityInvestments, Design patterns questions
+Facebook," given a list of tuples of movie watched times, find how many unique minutes of the movie did the viewer watch e.g. [(0,15),(10,25)]. The viewer watched 25 minutes of the movie."
+PNCFinancialServicesGroup, What is exceptional customer service to you?
+Unify, overall experience in Data engineering?
+OneMedical, Reversing string characters and replacing either the first few or last few chars with a pattern
+ModCloth, How much experience do you have with Ruby on Rails?
+SurveyMonkey, Describe how to mitigate transition pains of moving from a JS/UI framework. 
+Chitika, Most questions were fairly easy or theoretical.
+ElectronicArts, Find the starting node of loop in the singly link list. A-B-C-D-E-C... So c is the starting node
+ServiceNow, Add up a sum of numbers on a whiteboard and give me the average.
+Wealthfront, Typical data engineering questions
+ServiceNow, How do you educate yourself?
+ComputerTaskGroup, When are you available?
+LinkedIn, they just asked a coding questions
+Facebook, How did you collect requirements for the new application?
+Commonwealth-Altadis, Put in a difficult situation with the interviewer while he was role playing an angry superior first thing in the morning. He acted like a total jack@ss. I was speechless.
+Facebook," How would you design and build a data model to report on active users and number of posts by interface (ipad, iphone, desktop web, etc) given a hierarchy of these interfaces and their rollup groupings, at any and all levels of the hierarchy?"
+UniversityofWashington, Would you be comfortable just being a programmer?
+UniversityofWashington, Are you comfortable with this level of pay cut?
+SquareRoot," There weren't any difficult questions. Folks were nice about the whole process, though the process lasted quite a while (over 4 weeks)."
+Microsoft, Do you have a Microsoft-based computer?
+Apple, create market basket output from sql. 
+Slalom, How would you architect a new data warehouse/pipeline solution?
+Spotify, Build out the architecture to go from a stream of user-level event data on their devices to time-aggregatable metrics in a dashboard.
+CapitalOne," No in-depth questions, just questions about my last two projects."
+WaltDisneyCompany, What is a test plan
+Facebook, They asked how I'd scale a web app I'd previously developed in my spare time up to Facebook scale.
+Amazon," Data modelling, SQL. Focus on scalability as Amazon has huge volumes of data. "
+HBO, Asked a live coding on python. Need to execute the program online after coding. And 2 SQL queries where I need to write the query. 
+Genapsys, write a program to swap() in java. He does not tell what the input or output is coz he ( the project manager ) does not know.
+VerizonMedia, I had to explain a project that I feel most proud of
+C3.ai," Tell me about a previous project you have done, that would be related to our field? What were the results? What was the most challenging project you have led so far?"
+Amazon," I want to design a database similar to imdb, design it, and tell me the structure/fields so that 1. given a specific year, you can find top 5 grossing films 2. given an actor, return all his costars 3. all movies with more than 3 cast members."
+ADP," The questions were mostly technical, related to my experience with hardware, application, and services hosted by ADP."
+Cabela's, What was interesting about the job posting?
+SailPointTechnologies, Given a nxn graph find smallest rectangle within the graph
+Facebook, Most of the questions were along the same lines as the ones already posted on Glassdoor.
+AtomTickets, Why are you leaving your current company?
+ProgressiveInsurance, Tell me about a time when you had too many things to do?
+Demandbase," Very broad range of questions covering data engineering, data science, distributed computing, architecture... and specialties like record linkage / deduplication + multiple code exercises"
+Adobe, Design a recommendation system???
+BoozAllenHamilton, What type of data projects have you worked on?
+Zynga," They asked me about 'Isolation level', sql questions were all right . "
+Mapbox," Mostly questions about my experience. There was an extremely open-ended product analytics discussion, too."
+TheShipyard, How to setup AWS for hadoop??
+Mapbox, Describe what you know about vector tiles. 
+NetSuite, Where's a good place to get sushi around here?
+LinkedIn," Some questions about SQL queries, database transactions, batch vs stream processing, some intermediate coding problems"
+TiltingPoint, what is ETL
+LinkedIn, Why LinkedIn?
+SimonData, Big-picture data flow
+AutoGravity, I did not encounter any difficult questions
+Facebook," 1) Given a number and a array. Python code to find sum of any 2 numbers in a list is equal to a given number. 2) sql question mostly on case when, joins ex: Q3: delete all dupliactes from a table in one query 3) Mostly the interviewer was cornering me by asking not to use regular ways, so he was expecting the answers in a particular way, ex: can't use joins, sub query etc which made very simple questions tough"
+Weebly, Find 2 numbers in an unsorted array equal to a given sum.
+TrialPay, Write diff tool to compare 2 files.
+TrialPay," There are multiple files in the directory.Print those files which has same content.Go recusrive and search every path inside the folder. Mutithreading ,Resource management etc."
+TrialPay, Search words in a huge file of characters.
+Lyft," Q. SQL: 1) Find new customer_ids for each day in an orders table. This means you will compare each day with previous days to find the ones existing in that day but not in earlier days. Pretty straightforward. 2. Find customers who bought on 2 consecutive days, you would want to use DATEDIFF function here to answer that. PYTHON: 1). For sorted list without duplicates, find the nth missing number. you should use binary search here. 2). Find the first non-recurring number in a list (unsorted). Common LeetCode question."
+Pillow, SQL code
+ElectronicArts, What was your biggest failure? What is the difference between confidence and arrogance?
+IEXGroup," Let's just say the solution they want for their hackerrank problem is online , so just google it (the test is not fair anyway, so why shouldn't you cheat it?). Based on my extensive experience interviewing very high quality candidates, you are unlikely to come up with the trick they want on your own in interview environment unless you already know it."
+ElectronicArts, What is a UDT?
+Apple," pivot, unpivot case statements. "
+ElectronicArts," What are table indexes, how many are there, and what differences do they have?"
+XPOLogistics, There were questions across the spectrum from data modelling to data science.
+ElectronicArts, Write/describe a SQL statement that identifies null values using a left outer join.
+ElectronicArts, Write/describe a SQL statement that counts distinct values.
+Aetna, 2. Why do you choose Aetna?
+WestCorporation," Knowledge of Hadoop, Big data, Tableau etc"
+Aetna, 1.Tell others about yourself.
+1010data, Have you ever used the programming language K?
+MovotoRealEstate, 1.How to shuffle a deck of card in Java linked list. 2.What could we do to combine Structure data and Un Structure data across the multiple sources.
+UnityTechnologies, Already described above. 
+TheMeetGroup, what kind of project have you been working on
+TheMeetGroup, Tell me about yourself
+Tapjoy," In SQL, describe the different types of joins. Asked to solve a SQL query General questions about Python"
+Amazon, Object Oriented Design
+WesternDigital," In VHDL, if you have an unsigned 32 bit integer, how do you turn it into a 16 bit integer? "
+WesternDigital," In C, what is the difference between Union and Struct?"
+WesternDigital," In C, determine how many '1' bits are in an unsigned 8 bit integer?"
+Facebook, delete duplicates in a list
+Google, What is the latest Linux kernel release? How to add a user permissions on a file in Linux command line? Stuff like that. I had maybe 2 relevant hardware questions max. 
+DNA2.0, What's your Github account?
+ZapLabs, Reverse a binary tree (left to right)
+KLA, Explain your project. Why did you use that algorithm.
+Amazon," Like I said above, come up with as many situations and examples in your career where you failed at something but learned, where you improved something and it's impact and where you had to overcome challenging situations that have a positive outcome."
+C.H.Robinson," Questions mostly about my background, interest in the company, where I want to go in company, and some general knowledge of big data technology."
+BoozAllenHamilton," What is your knowledge of Hadoop, and other large scale data frameworks?"
+Zillow, ask to explain my experiences and skills
+Facebook," 1. the ORDER BY command in SQL is automatically set in what format if you didn't set it? Ascending or Descending? Answer: Ascending 2. When you want to delete or add a column of a table in a database, what command you will use? Answer: ALTER 3. this question about about LEFT JOIN, they ask what command you want to use if you want to keep all the info of the left table? Answer: left join 4. You want to combine two column after removing two duplicates, use UNION or UNION ALL? Answer: UNION "
+Upgrade, coin change find unique string
+BostonConsultingGroup, What's the largest dataset size you've worked on
+BostonConsultingGroup, Tell me about your work. Do you use Spark/hive etc. How often?
+CitizensBank," Having no Banking experience, why do you think you are eligible for this position?"
+BostonConsultingGroup, Cast study: I was given a 7M rows dataset and some question that I had to solve from the data also some extra insight that you can get on your own. Finally create a full study around the case.
+OneMedical," Coding question(s) surrounding a data type, SQL question(s), system design questions, behavioral questions"
+LinkedIn, round 2 algorithms
+LinkedIn, round 1 sql
+ServiceTitan, Asked me to write an update statement in SQL on a dry marker wall.
+Dell, How do you think your previous job experiences help succeed in this position?
+GIPHY, HackerRank challenge 
+LinkedIn, round 3 manger
+hawkeye," Do you know Python, c++, have you have experience with GPS, are you available for a clearance?"
+23andMe, some stream string issue
+Groupon, Find prime numbers less than 1 billion using map reduce framework. (answer was expected in less than 30 seconds!!)
+SocialTables, Why do you value data so much ? and can you share some details/insights about projects where you've used huge datasets and what was your approach in solving the data problem ?
+MedidataSolutions," Phone Screen: Basic behavioral questions. Nothing you wouldn't expect. On-site interview: Hadoop architecture Hive, Pig questions Speculative execution How to handle NameNode failure? Find second highest salary(SQL) Why Medidata? Where do you see yourself in 5 years? Discussed at length about the volunteer/social work experience from resume Bubble sort code Find pairs in an array whose sum is divisible by a certain number. Find number of occurrences of a character in a character array. How do you check the task ID of a process? How do you check if a service is installed in windows? What is MUTEX and semaphore? Was asked to answer a few Java questions on paper.(Most were basic questions) * What are web services? * What is Maven? Something about Maven targets was also asked. * What is the use of volatile keyword? * What are atomic classes in Java concurrency API? * Difference between final/finally/finalize * Name three design patterns"
+BoozAllenHamilton, Where do you see yourself in 5 years?
+LindenLab, A SQL query 
+DISH, basic questions
+Robinhood, some steam string questions
+Allstate, Be prepared to talk about your past experience and interests in working with Allstate
+Cortland, SQL- Top Nth Salaries in Employee table?
+TellApart, not fair to discuss them here but question are already posted on Glassdoor. Unfortunately I didn't read them before interview process
+HPECOXA, What do you know about system programming?
+HewlettPackardEnterprise|HPE, (paraphrased) why wouldn't you run your model super high order since it would fit better?
+SambaTV," Given two arrays, calculate their convolution. Use the solution to calculate the Pascal's triangle."
+CapitalOne," Explain the how MapReduce works, and compare and contrast that with data streaming frameworks."
+WhiteOps, Python questions on syntax/logic/Spark etc.
+Impact," Easy-style leetcode questions, mostly about binary search trees"
+Entelo, I stopped before a Java test. I don't program in Java but they wanted me to take it anyway.
+UnionBank, Give me a linux command to delete files recursively?
+SPR, Tell use about previous projects
+CommunityHealthSystems, Casual not too technical interview questions like difference between hive internal and external table and if i have performance tuned hadoop sometime.
+TheHartford, Describe an ETL process that you developed
+CapitalOne, describe a conflict at a job and how did you handle it
+OfferUp," Do you use Offerup? Do you have any question so far? He will ask you some details about your project, you'd better remember all of them."
+Canary, Whiteboard design discussion around building a real world streaming data pipeline for sensor data from millions of IoT devices
+TrackBill, Prime Factorization... They expected me to remember the Sieve of Eratosthenes off the top of my head... That has absolutely nothing to do with the job role they described and I highly doubt they use it in their code base. 
+Amazon, 1. What difference have you made in current team apart from regular work ? 2. What are the steps you follow to rebuild a table in database ? 3. How did you do performance tuning ? 4. How do you find the skewness of data in table ? 5. Difference between RDBMS and Dimensional Modeling SQL 1) purchase customer_id product_id quantity purchase_date 1 111 1 01/01/2017 1 111 2 01/02/2107 1 222 2 01/02/2017 2 111 3 01/04/2017 2 222 1 01/03/2017 3 222 1 01/05/2017 3 222 1 01/06/2017 3 111 1 01/06/2017 3 111 1 01/04/2017 Q: How many customers bought each product how many times during the week? Product_Id Number_of Customers Number_of_Times 111 2 2 111 1 1 222 2 1 222 1 2 2) daily_usage account_id usage_amount usage_date 1 10 1 1 20 2 1 15 3 1 30 4 Q. a) How do you print the usage_amount of previous/consecutive rows b) Without using window functions
+Canary, Write an application that passes all unit tests to properly process a moving average of an incoming stream of data in realtime
+Atlassian," CDC/SCD types and implementation with SQL and Hive System design and Python coding on screen (F2F) Values based questions Career goals and the reason for changing job etc.,"
+CapitalOne, What's the benefit after Capital One acquired INGD? (tech interview)
+CapitalOne, Do you know BI/BO? (Job fit interview by a software engineer)
+CapitalOne, An 'if' condition programming with some logic errors. (tech interview)
+KPMG, mostly resume based. Past projects. How you did and what are your responsibility.
+VoloridgeInvestmentManagement, What are you doing in your current job and how it can help
+Bayer, What's the obstacle you faced in a team project? How do you solve it?
+Handshake-Stryder, Re-architect Spotify and their recommendation systems.
+Zenefits, Find a path through a 2D matrix.
+Facebook," Given a multi-step product feature, write SQL to see how well this feature is doing (loading times, step completion %). Then use Python to constantly update average step time as new values stream in, given that there are too many to store in memory."
+Boeing," What education, training, or work experience prepared you for this position?"
+Rover.com, How did you hear about Rover?
+DrFirst, What kinds of tools do you use for data quality testing?
+CapitalOne," -questions related to map and reduce phase -how would you choose HDFS file formats while storing XML data -how would you deal conflict in approach with a team member, and how would you escalate issues."
+uBiome, The interviewer checked for competency in statistics and creativity in approaching an analysis problem. Interviewer also asked for details about background experience.
+PlumeDesign, How do you debug spark jobs?
+PlumeDesign," Given a sorted array which may contain both positive, zeros, and/or negative integers, select the 3 that gives the greatest (most positive) product. "
+SAICMotor, fibonacci

@@ -1,0 +1,126 @@
+company Name,Question
+FidelityInvestments, Design patterns questions
+PNCFinancialServicesGroup, What is exceptional customer service to you?
+Slalom, How would you architect a new data warehouse/pipeline solution?
+MedeAnalytics, What is table partitioning in database.
+MedeAnalytics, What is the Use of pipe (|) in Unix
+MedeAnalytics, Find duplicate rows in a table.
+Verizon, Blocking vs Nonblocking in OS
+LinkedIn, What is REST? How did you use it at your current work place?
+LinkedIn," Design a program to take a string and store, each character, into an array. The array should return a count of each character when called. [The interviewer was clearly trying to blur the lines between a simple program and a MapReduce]"
+LinkedIn, Why LinkedIn?
+ImpetusTechnologies," Basic MapReduce and Java questions. Covered other components in Hadoop eco system (Hive, Sqoop and Oozie). Few questions Spark performance and architecture."
+KPMG, Mostly technical and scenario based all focused on Bigdata lake
+NIKE," Questions were very detailed, very low level and interesting"
+GumGum, Tell me about what your ideal work day would look like.
+GumGum, Is working from home sometimes necessary for you?
+NOMISSOLUTIONS, What is your experience with big data?
+Vrbo, Most of the questions are related to the Technology I have worked on
+TikTok," Video interview with a technical manager about how to retrieve data from big data platform, and how to design a Datawarehouse for a specific situation "
+Jawbone, Design question on the battery peaks and troughs using Map Reduce 
+Ericsson-Worldwide, How would you design a data pipeline?
+Amadeus, What was your role in the project and did you lead the project
+LinkedIn," Some questions about SQL queries, database transactions, batch vs stream processing, some intermediate coding problems"
+SoFi," I was asked questions about my solution to the previously completed coding assignment, and was also asked what the output of a sample Python code snippet would be."
+BellandHowell, It was more of a discussion where I was asked about machine learning projects and why I took a particular approach in that project. Then some hypothetical scenarios were given and they wanted to see the thought process.
+LinkedIn, Why LinkedIn?
+FidelityInvestments, What is thr architecture of spark?
+FidelityInvestments, Questions on mappers and reducers and hadoop
+FidelityInvestments, When you will not use docker
+FidelityInvestments, Difference between Structural databases and unstructured databases.
+Ancestry, Design LRU cache
+Ancestry, Some big Data related questions involving working knowledge of spark
+Ancestry, Design parking Lot using REST APIs and microservices
+zulily, Different types of dimensions in Datawarehouse
+Amobee," Hadoop Technical Questions were many: Q1. Explain Architecture of Yarn. Q2. How to plan Capacity with Yarn? Q3. Some issues with jobb failures on Yarn for a Spark job or Hive Jobs? Q4. Java heap memory tuning ? Q5. JVM internal questions? Q6. JVM issues - example - missing classpath, OOM, GC etc. Q7. JVM thread dump, jstack questions. Q8. HDFS Questions - Pipelining, ACLs, DataNode Failure issues, UnderReplicated Blocks etc. Q9. Spark jobs issues. Q10. Spark Memory tuning, some other performance questions. Q11.Upgrades - Process, issues, Best practices. Q12. Linux questions Q13. Networking Questions. Q14. Programming questions. Q15. Architectural Questions on BigData."
+Ancestry, Connect nodes of a binary tree at each levels
+"PandoraMedia,LLC", Deck problem was very tough for me and it was at the end I was too tired
+IQVIA, Any challenge that you have faced while handling big data in a company
+Ancestry, Search an element in the binary tree in a constant time
+IQVIA," What is big data, map reduce and data lake"
+FidelityInvestments, State the use cases for batch processing and streamline processing.
+FidelityInvestments, Describe your previous work experiences. 
+MarkMonitor," singleton, hadoop, kafka "
+ipsy, Longest palindromes in a string SQL quesiton
+Cloudwick, Work Experience Related
+GlobalLogic, aptitude and personality
+MedeAnalytics," 1- Questions on Indexing, Joins and other concepts of SQL. 2- Difference between procedure and function. 3- Cursors ? 4- Sub-query."
+Siemens, Logic based questions. Scenarios. Code reviews
+Comcast," 1. Check ""rownum partition by order by"" clause in SQL 2. Be confident with the work you mentioned in your resume."
+ZapLabs, Reverse a binary tree (left to right)
+FreeWheel, 1 easy and 1 mid Leetcode and 1 simple SQL.
+Sears, What tools do you use for operational management of Big Data platforms? Tell us about your experience troubleshooting Map/Reduce jobs?
+CMEGroup," Algorithmic/time complexity - Given two arbitrarily large lists (L1 and L2) of integers, +ve and -ve, and a random integer k, write an algorithm to find pairs (a,b) such that a+b=k for all a in L1, b in L2"
+CMEGroup," SQL query debugging, fairly easy if you know joins, aggregate functions etc"
+CMEGroup," Probability based questions - the expectation of winning a game given a coin with bias, heads is win, tails is loss. Reward is $10 for win and $0 for loss, with a $1 fee to play the game"
+C.H.Robinson," Questions mostly about my background, interest in the company, where I want to go in company, and some general knowledge of big data technology."
+Zillow, ask to explain my experiences and skills
+MorganStanley," Given the current DW and volume of data, what's best solutions overall using Hadoop platform?"
+ServiceCorporationInternational, General experience
+ServiceCorporationInternational," Etl lifecycle (staging, data warehousing, lookups, rejected records)"
+MunichRe, how you will manage your work is many tasks are pending at the same time.
+CommunityHealthSystems," merge sort , time complexity , apache spark hadoop hive , performance tuning."
+ArrowElectronics, Roman to Integer
+ArrowElectronics, Hive manipulation
+ServiceCorporationInternational, How do you create a ssrs dataset
+ServiceCorporationInternational, How to remove duplicates in sql
+LinkedIn, round 2 algorithms
+LinkedIn, round 1 sql
+LinkedIn, round 3 manger
+MedeAnalytics, How will you deal with a situation in which you have to work with the technology that you are not familiar with.
+ServiceNow," Design Facebook graph search with basic implementation. Create/ implement a chat server, searching a rotated sorted tree. "
+KPMG, How you would code for AES256 encryption? They were encountering this with one of their current clients and wanted to know how I had done in my previous projects.
+DisneyParks&Resorts, what are python generators?
+KPMG," What is Singleton in Java, and the use case"
+Zynga, the previous job scope
+KPMG, What is combiner in Map Reduce?
+MedidataSolutions," Phone Screen: Basic behavioral questions. Nothing you wouldn't expect. On-site interview: Hadoop architecture Hive, Pig questions Speculative execution How to handle NameNode failure? Find second highest salary(SQL) Why Medidata? Where do you see yourself in 5 years? Discussed at length about the volunteer/social work experience from resume Bubble sort code Find pairs in an array whose sum is divisible by a certain number. Find number of occurrences of a character in a character array. How do you check the task ID of a process? How do you check if a service is installed in windows? What is MUTEX and semaphore? Was asked to answer a few Java questions on paper.(Most were basic questions) * What are web services? * What is Maven? Something about Maven targets was also asked. * What is the use of volatile keyword? * What are atomic classes in Java concurrency API? * Difference between final/finally/finalize * Name three design patterns"
+Zillow, What is the biggest achievement in your life? What is the thing that you taught yourself?
+TellApart, not fair to discuss them here but question are already posted on Glassdoor. Unfortunately I didn't read them before interview process
+Uber, Why uber?
+Allstate, A situation you request assistance. 
+IBM," Oral theory questions on computer science fundamentals, programming fundamentals, or data bases. Seem to be designed for a fresh grads out of college. If you are a fresh grad, you are fresh with these concepts and will nail it. If you are experienced, then be sure to brush up basic fundamentals. Nothing about your work-experience"
+Copart, What technique do you use if you have to sort a huge file (zeta bytes in size)?
+FreeWheel," 1 easy and 1 mid leetcode question, 1 simple SQL."
+Amazon, write a function to determine a BST
+IntelCorporation, phone interview: two sum and basic java knowledge
+EPAM," How do you count number of elements in a spark Sequence, how can you avoid data being called twice due to lazy,evaluation Aggregate vs reduce by when to use what "
+AT&T," Data join question: The higher the Key Performance Indicator is, the better the performance of the tower. Please provide a solution to determine the best and worst performing tower, as well as the average tower performance per market. Datasets KPI Dataset = TOWERID, DATE, KPI Market Info = TOWERID, MARKET"
+IBM, How do you handle different scenarios in a working environment?
+Amazon, Basic questions related to big data but in depth like working of components i.e.what is namenode and if the replication factor is 3 how will you figure out what is happening inside the hdfs when you are trying to write something in hdfs etc.
+DisneyParks&Resorts, what is an rdd? (their spark related question)
+BMW, A simple algorithm question which I don't remember
+Orzota, Background
+Siemens, Asked me about visualization tools ?
+Orzota, Tell me about yourself
+Siemens, Asked about Java and Apache Spark?
+Orzota, How do you know you are advanced in XYZ skill looking at my resume
+AIG, Asked about the Job responsibilities in previous Job Based on that all your questions depends on .
+Siemens, Asked me about Tableau?
+Siemens, Asked me about Machine Learning?
+ThomsonReuters," 2. Explain Mapreduce concepts , Write a map reduce program for word count and explain the process."
+ThomsonReuters," 1. Explain topics on Classes on java, Multi threading, concepts on multi threading, synchronized methods."
+JuniperNetworks, Resume Selected online and was called for on site. 45 minutes round onsite - Data Structures (Hash table all concepts) - JAVA concepts - Puzzle (2 eggs 100 floor building find threshold) - Basic hadoop Question. - Migrate a row from SQL to key value store 30 mins telephone round - Longest Palindrome - In-Pre-Post Order traversal with and without recursion
+Gallup," Big O, Java Strings - regex, Classification and SVM, College Projects, On Campus Jobs, Big Data technologies"
+ThomsonReuters, 3.Write a map reduce program in java and explain the big 'o' notation for it.
+CommunityHealthSystems, Casual not too technical interview questions like difference between hive internal and external table and if i have performance tuned hadoop sometime.
+FreeWheel, HDFS v/s AWS. Which better. Support Answer
+AppNexus, Linux Questions
+LandO'Lakes, Run-in-a-mil design questions that are completely irrelevant especially when you have your system in place and you want people to just maintain it.
+JuniperNetworks, Find the largest sub-array that sum to a specified value
+Vrbo," Local minima in trees, sorting million numbers"
+Intuit, Design big Data solution for 2 streaming dataset using any Cloud or open source tech
+BloombergL.P., 1.design an inorder tree traversal. 2. Add all the branches and root of all the nodes and sum up the main root node
+Intuit," Craft demo mostly demonstrating spark working knowledge, distributed systems."
+PlayStation," Algorithms - Anagrams, merging multiple sorted arrays and explain time complexity, reverse print of a given array using lambda expressions, differences between snappy and gzip, different types of formats like avro, json, xml..."
+KPMG, mostly resume based. Past projects. How you did and what are your responsibility.
+Intuit, Sort 2 already sorted arrays into one array
+Intuit, Serialize and deserialize binary tree
+Intuit, Design LRU cache
+Intuit," Internal working of Spark especially joins, shuffles, etc. Differences between RDD, dataframe, dataset."
+Knowledgent, The questions were related to Java and SQL. They were fairly simple. 
+RedHat," Don't remember. Normal stuff like ""what's your biggest mistake""."
+CapitalOne," -questions related to map and reduce phase -how would you choose HDFS file formats while storing XML data -how would you deal conflict in approach with a team member, and how would you escalate issues."
+Collabera, Explain ur project?
+Avanade, Top 3 aspects that you think are most important to choose a company?
+CodeForce, about algorithms

@@ -1,0 +1,101 @@
+company Name,Question
+GaussSurgical, Why does one use MSE as a measure of quality. What is the scientific/mathematical reason for the same?
+Amazon, How would you code up a custom rectangle detector?
+ConEdison," No technical question but a hypothetical question will be asked of what would you do if a intern friend working at Con Edison took home a work computer for personal uses. If you immediately think of telling your supervisor, they might say your supervisor said it was okay, thought it ALWAYS against company policies. "
+Nucor, Why are you interested in Nucor?
+Matterport," Given a 2D grid consisting of links and vacancies represented by a 2D array and assume you can move from either down (j,k)->(j+1,k) or to the right (j,k)->(j,k+1) unless there is a vacancy"
+Amazon, Walk me through your routine day at your current job.
+SpaceX," ""What is the size of an integer on a 32-bit system?"""
+J.P.Morgan," All technical questions where about UNIX and IT staff, very indeep stuff."
+ProgenySystemsCorp., Do you know what you _should_ have done for your design project?
+Vocollect, explain an experience when you had to report an issue of an unethical situation
+Matterport, write the c function for the atoi function. 
+NavalPostgraduateSchool, What experience do you have with Linux?
+Vencore," Asked me to describe things from my resume, and gave me a basic problem and asked me to write pseudocode on a white board (find the max # in a list)"
+Alcoa," Some basic leadership question that I can't really remember, but it stumped me. Really weird question."
+AMD," If you have two ropes that both take an hour to burn, how do you measure 45 minutes?"
+SamsungElectronics, Why is C++ better for a programmer than Java. Explain one scenario where you will prefer C++ over java
+FiveRingsCapital," Is 1,000,001 a prime number?"
+UniversityofDayton, Tell us about this project you worked on. 
+UniversityofDayton, How would you feel if I handed you a research paper and asked you to summarize it for me by tomorrow?
+PROS," Java question: If there is a try catch finally. Is finally called everytime ? If not, then under what cases will it not be called?"
+GetFugu, What is the feature extraction technic?
+NavairTechnologies, Q: Have you ever led a project?
+Dynetics, Why did I choose Computer Engineering as my course of study over Computer Science?
+Fujitsu, Based on the resume
+Amazon, I was asked very specific question regarding the role. The interviewer knew that I do not have much background on that question.
+GetFugu, What is a difference between SIFT and SURF?
+Tesla, Introduce your previous project
+Tesla, Have you taken any deep learning course? 
+WellsFargo, how to get check if the port is open
+HermesMicrovision, What is neuron network
+FastEnterprises, Would you be able to relocate without issues?
+TeconSolutions, Tell me about your work experience
+MagicLeap, write code to solve some problems
+BMWManufacturing, The guy I already spoke to at my college just told me to catch the other interviewer up to speed on my experience.
+Emerson," Describe a difficult situation you have encountered recently, and the steps you took to overcome it."
+BoweryFarming, Systems design related questions.
+OstendoTechnologies, Singleton pattern
+SPAWAR, Would you like to work at SPAWAR?
+LawrenceBerkeleyLab, Algorithms
+SPAWAR, What did you do before this?
+Pentair, Tell me about a project outside school that you enjoy doing.
+LiebermanResearchWorldwide," What computer program languages do you like and which ones do you dislike and why? Some are generic ""hypothetical scenario"" questions and others are tailored to your resume."
+Hi-TechRoboticSystemz, All the question is about the pass projects
+Flipkart, (1) Back-propagation; (2) overfit vs underfit; (3) implementation of one of the steps in Canny edge detection using graphs; (4) closed form formula to solution of linear regression; (5) write code for K nearest neighbor algorithm (6) vanishing gradient vs exploding gradients due to choice to relu() vs sigmoid()
+Hi-TechRoboticSystemz, Have you used CUDA and C++?
+Mellanox, Why did you leave your previous company?
+CiBOTechnologies, Describe your past programming experience.
+WiZR, In-depth - but quite friendly and easygoing - discussions about professional background and experience in relevant topics.
+MathWorks," coding: string permutation 0-N binary representation, count 1 in each representation, add the count in an array"
+MagicLeap, simple C++ coding question
+Medtronic, Why Medtronic?
+NavalSurfaceWarfareCenter, What sort of experience do you have with C# and SQL?
+SoteraDefenseSolutions, I was asked if I would be okay with presenting findings in a brief.
+NervanaSystems, My projects in ML mainly.
+ZebraTechnologies, How would you create a NAND out of PMOS?
+FirstNationalBankofOmaha, Describe something about yourself
+ParklandHealth&HospitalSystem, How would you troubleshoot a user not able to access a shared drive?
+ParklandHealth&HospitalSystem, Learn and understand how VDI infrastructure is setup and understand all of the servers and there purpose
+ParklandHealth&HospitalSystem, What is cloud pod architecture?
+ParklandHealth&HospitalSystem, Do you know what workspace is?
+Apple, Matrix multiplication on the GPU
+OCCIPITAL, What is the difference between map and unordered_map
+USDepartmentofDefense, If ever did anything to harm U.S or not?
+USDepartmentofDefense, If your are a terrorist or not? 
+ASVGlobal, Write a function to delete a duplicate node within a linked list.
+MerrillLynch," Questions about my work experiences and my role. questions about db2 queries, jcl and cobol questions."
+ASVGlobal, Write a function to create a list for every level within a binary tree.
+Amazon, Basic Linked List Questions
+Glowforge," Something easy in Python. Dictionaries, lists, etc."
+NVIDIA, Describe your project on the resume
+Flowserve, Worst mistake at a previous job?
+OculusVR," Transpose a Matrix. First do it using extra memory, then do it in place."
+OculusVR, I had a take home assignment - which you code up and bring with you to the interview for a panel discussion and presentation. I had to implement a blob detection algorithm.
+OculusVR, I also had a phone screen where they asked me to write code on a shared screen. I think they asked me to remove duplicates from an array. The phone interview was quite straightforward and good.
+OculusVR," How would you send an encoded message in an image. First encode it, then write code to decode it."
+ParklandHealth&HospitalSystem, Ask them questions back
+ParklandHealth&HospitalSystem, Why are you looking for a new job
+SixFlags, What are three adjectives that you would use to describe yourself?
+LeapMotion, How can you detect car through CCTV Camera? And went in depth as I kept on answering.
+FergusonConsulting," The real zinger came at the end when they demanded previous compensation information. They said they wouldn't make an offer without it. Not only did they demand it, they demanded previous paycheck stubs as proof of it. I refused of course, and didn't call them back."
+TuSimple," For the technical questions, he asked me about spanning tree and dynamic programming."
+NIO, Why NIO?
+Deloitte, Tell me about yourself?
+Aquent," Jess, my recruiter, wanted to ensure my goals and expectations were in line with their proposed contract."
+Deloitte, What are a few strengths and weaknesses that you have?
+Philips, Do you have plans for the next 5 or 10 years?
+Deloitte, Describe how to implement a full stack
+Mercom, What is the difference between a function and a procedure. 
+Philips, are you willing to do more work than the others teammates do in your teamwork?
+ParsonsCorporation," What is a hash table, array, linked list, etc."
+MathWorks, 1) Why do you fit for this role?
+ParsonsCorporation, What is the time complexity of this implementation? (Big O)
+ParsonsCorporation, What is the difference between a class and an ID?
+Wiverse, Typical interview questions for an executive admin... 
+SchneiderElectric, There was no too much technical questions. I don't why. 
+Amazon," Inheritance, polymorphism. Many questions related to graphs and graph traversals. How would you implement a connected components labeling in a binary image?"
+Accenture, Tell me about some things you learned during your educational experience (Technical question)
+CadenceDesignSystems," There were no unexpected question, but there were few tricky and testing one. One was to describe the functionality and usage of LRN normalization layer in AlexNet ."
+Accenture," Tell me about a time when you had a disagreement with a co-worker, and what you did to fix it. "
+Accenture, Tell me about a time when you were on a team and were behind on a deadline or goal. What did you do in this situation and what was your role?

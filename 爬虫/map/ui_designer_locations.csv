@@ -1,0 +1,216 @@
+state,count
+"San Francisco, CA",70
+"New York, NY",63
+"Chicago, IL",29
+"Austin, TX",25
+United States,24
+"Dallas, TX",24
+"Boston, MA",23
+"Seattle, WA",21
+"Atlanta, GA",21
+"Palo Alto, CA",20
+"Mountain View, CA",15
+"Los Angeles, CA",14
+"Cambridge, MA",11
+"Sunnyvale, CA",11
+"Charlotte, NC",10
+"Washington, DC",10
+"Tampa, FL",9
+"San Mateo, CA",9
+"Bellevue, WA",8
+"Plano, TX",8
+"San Jose, CA",8
+"Herndon, VA",8
+"Salt Lake City, UT",7
+"Denver, CO",7
+"Irving, TX",6
+"Baltimore, MD",6
+"San Diego, CA",6
+"Glendale, CA",6
+"Orlando, FL",6
+"Irvine, CA",6
+"Charleston, SC",6
+"Philadelphia, PA",6
+"Miami, FL",5
+"Aberdeen Proving Ground, MD",5
+"Detroit, MI",5
+"Coraopolis, PA",5
+"Eugene, OR",5
+"Columbus, OH",5
+"Phoenix, AZ",5
+"Harrisonburg, VA",5
+"Owings Mills, MD",5
+"Arlington, VA",5
+"Santa Monica, CA",5
+"Annapolis Junction, MD",5
+"Carpinteria, CA",5
+"Alpharetta, GA",5
+"Grand Rapids, MI",5
+"Birmingham, AL",5
+"Northbrook, IL",4
+"Augusta, GA",4
+"Creve Coeur, MO",4
+"Minneapolis, MN",4
+"Portland, OR",4
+"Pleasanton, CA",4
+"Scottsdale, AZ",4
+"Pittsburgh, PA",4
+"Auburn Hills, MI",4
+"Harrisburg, PA",4
+"Rockville, MD",4
+"Fort Lauderdale, FL",4
+"Cary, NC",3
+"Miramar, FL",3
+"Newton, MA",3
+"Melbourne, FL",3
+"Mahwah, NJ",3
+"Oak Brook, IL",3
+"Richmond, VA",3
+"Lehi, UT",3
+"Conshohocken, PA",3
+"Westminster, CO",3
+"San Clemente, CA",3
+"New Orleans, LA",3
+"Saint Louis, MO",3
+"Bolingbrook, IL",3
+"Lindon, UT",3
+"Morrisville, NC",3
+"Nashville, TN",3
+"Belmont, CA",3
+"New Holland, PA",3
+"Dublin, CA",3
+"Redwood City, CA",3
+"Stamford, CT",3
+"Columbia, MD",3
+"Reston, VA",3
+"Albany, NY",3
+"Tukwila, WA",2
+"Cleveland, OH",2
+"Raleigh, NC",2
+"Medina, MN",2
+"San Bruno, CA",2
+"Santa Clara, CA",2
+"Princeton, NJ",2
+"Lake Mary, FL",2
+"Lafayette, LA",2
+"Springfield, MO",2
+"El Segundo, CA",2
+"South Burlington, VT",2
+"Montvale, NJ",2
+"Dearborn, MI",2
+"Rochester, NY",2
+"Champaign, IL",2
+"Newark, CA",2
+"Johnston, RI",2
+"Westbury, NY",2
+"Springfield, IL",2
+"Piscataway, NJ",2
+"Boise, ID",2
+"Arlington, TX",2
+"Gainesville, FL",2
+"Chalfont, PA",2
+"Needham, MA",2
+"Kansas City, MO",2
+"Redmond, WA",2
+"Springfield, OR",2
+"Littleton, CO",2
+"Brisbane, CA",2
+"Naperville, IL",2
+"Schenectady, NY",2
+"San Marcos, CA",2
+"San Antonio, TX",2
+"Lake Oswego, OR",2
+"King of Prussia, PA",2
+"Providence, RI",2
+"Boulder, CO",2
+"Ann Arbor, MI",2
+"San Ramon, CA",2
+"McLean, VA",2
+"Glenview, IL",2
+"Peapack, NJ",2
+"Great Falls, VA",2
+"Costa Mesa, CA",2
+"Blacksburg, VA",2
+"Saint Paul, MN",2
+"Moraine, OH",2
+"Waltham, MA",2
+"Sacramento, CA",2
+"Portland, ME",2
+"Culver City, CA",2
+"Franklin Lakes, NJ",2
+"Wilmington, DE",2
+"Indianapolis, IN",2
+"Buffalo, NY",2
+"Boca Raton, FL",2
+"Lexington, MA",2
+"San Fernando, CA",1
+"Vienna, VA",1
+"Brooklyn, NY",1
+"Hillsboro, OR",1
+"Mayfield Heights, Cuyahoga, OH",1
+"Bend, OR",1
+"Provo, UT",1
+"Wellesley Hills, MA",1
+"Berlin, CT",1
+"Columbia, SC",1
+"Newport Beach, CA",1
+"Traverse City, MI",1
+"Alexandria, VA",1
+"Las Vegas, NV",1
+"Bozeman, MT",1
+"Marina del Rey, CA",1
+"Lenexa, KS",1
+"Highland Park, IL",1
+"Menlo Park, CA",1
+"Wellesley, MA",1
+"Norwalk, CT",1
+"Beaverton, OR",1
+"Bradenton, FL",1
+"Foster City, CA",1
+"Madison, WI",1
+"Pleasant Prairie, WI",1
+"Tulsa, OK",1
+"Pitman, NJ",1
+"Vernon Hills, IL",1
+"Brentwood, TN",1
+"Pella, IA",1
+"Redlands, CA",1
+"Chantilly, VA",1
+"Venice, CA",1
+"Charlottesville, VA",1
+"Remote, OR",1
+"Huntington Park, Los Angeles, CA",1
+"Downey, CA",1
+"Pasadena, CA",1
+"Huntington Beach, CA",1
+"Oakland, CA",1
+"Somerville, MA",1
+"Sherman Oaks, CA",1
+"San Luis Obispo, CA",1
+"Round Rock, TX",1
+"Groton, CT",1
+"Huntsville, AL",1
+"Stony Brook, NY",1
+"Woodlawn, MD",1
+"Knoxville, TN",1
+"Farmington, CT",1
+"The Woodlands, TX",1
+"Whitefish, MT",1
+"Westborough, MA",1
+"Shelton, CT",1
+"Vancouver, WA",1
+"Burbank, CA",1
+"West Hollywood, CA",1
+"Fulton, MD",1
+"Houston, TX",1
+"Broomfield, CO",1
+"Melvindale, MI",1
+"Campbell, CA",1
+"Middleton, WI",1
+"Lansing, MI",1
+"Greenville, SC",1
+"Lakewood, NJ",1
+"Lubbock, TX",1
+"Carmel, IN",1
+"Mossville, IL",1
+"Jersey City, NJ",1

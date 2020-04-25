@@ -1,0 +1,101 @@
+company Name,Question
+MorganStanley, What's the best unbiased estimator for a series random variables?
+JaneStreet," You have 2 decks of cards (each deck contains both red and black cards). One deck has twice the number of cards in the other deck with the same color ration (so one deck has 52 cards and the other has 104, both half red and half black). I offer you to play a game. First you get to chose which deck of cards you want to play with. Second, you draw 2 cards at random from your deck of choice. If both are red, then I will give you a ferarri. Which deck of cards would you chose?"
+Google, What is the probability of breaking a stick into 3 pieces and forming a triangle?
+Citi, how many combinations that have at least one five from zero to 1000
+MorganStanley," From (0,0,0) to (3,3,3) in 3D space how many paths are there if we move only right, forward or up?"
+JaneStreet," 2. In an urn you have red and blue balls (same number of balls in each of the two colors). You extract 3 balls what is the probability that the number of balls you have extracted is odd. Now you extract 10 balls, what is the probability that the number of balls you have extracted is odd? "
+MorganStanley, The price of a stock is $10 now. It has .6 prob. increasing to 12 and .4 prob. going down to 8. Interest rate is 0. What's the value of a call option with strike $10?
+MorganStanley, 66 handshakes occur at a party how many people at a party if everyone shakes hands with everyone else.
+MorganStanley, What is the probability of a Brownian motion hit 1 before hitting -2. The Brownian motion starts at 0.
+D.E.Shaw&Co.-InvestmentFirm," If 3 of my friends have phone numbers ending (last four digits) in some permutation of 0,1,4, and 9 and I have 150 friends, then is that just a chance occurance?"
+GoldmanSachs," You call the home of a family w/ two children and a kid ""billy"" answers the phone. What is the probability that both children are boys? What is a virtual constructor in C++?"
+GoldmanSachs," gambling question, whether it makes sense to gamble, if the chances are very small. Calculate the odds someone will take the grand prize if one million people goes, and odds are 1 in 1 million for each entry."
+MorganStanley, expectation of max value of two dices
+MorganStanley," if you have 3 children one is boy and one is girl and another is unknown, you choose one from them what is the probability that that one is a boy."
+MorganStanley, Expected number of flipping coins of getting two consecutive faces.
+JaneStreet," 3. There are 30 blue and 30 red balls and two urns. You play a game. Your opponent has the right to arrange the balls in the two urns as he pleases, without telling you what he did. You then must draw a ball from an urn of your choice. You win $10 if you draw a blue ball, otherwise you get $0. How much would you be willing to pay to play this game?"
+Citi," Burn two ropes, one needs 60 minus, another needs 30. How to get 45 minus time."
+KnightCapital," How much would you pay to play this game? You have a fair coin. You get heads you win $1 and can continue to play. You get tails, you collect your winnings ans stop the game. Second question. Now what if the winnings double each time you get heads."
+GoldmanSachs, What is the expected value of tosses to get 3 heads in a row?
+AllstonTrading," Given a m*n matrix with values -1 or 1, try to flip the values in a given row and a given line efficiently."
+CognizantTechnologySolutions, What are the independent and dependent variables in your model? What are the underlying assumptions of the model? What did your research indicate should be the expected parameter estimates for your independent variables? How long have you used SAS? What models/methodologies have you evoked through SAS?
+MorganStanley, There is a big line of people waiting outside a theatre for buying tickets. The theatre owner comes out and announces that the first person to have a birthday same as someone standing before him in the line gets a free ticket. Where wil you stand to maximise your chance?
+MorganStanley," A line in front of movie theater, a free ticket is to given to the first person whose birthday is the same as someone who has already bought a ticket. You choose the position in this line, which position have the largest chance of getting the free ticket?"
+MorganStanley," 3 random variables have equal pairwise correlation, what are the possible value of correlation."
+MorganStanley," In 3-dim graph, how many paths to go from (0,0,0) to (3,3,3)"
+AthenaCapitalResearch, X(t) follows BM. Prob of both X(T) and X(2T) larger than 0.
+U.S.Bank, What are some ways we can describe a probability density function? What's an eigenvector/eigenvalue? 
+MorganStanley, an urn with Black balls and white balls. W> B 2 are drawn at random. probability that the send ball drawn is white. given the first is black.
+NumericInvestorsLLC, Suppose there is a series of 100 light bulbs labeled 1 through 100 that all start in the off position. Person 1 walks in the room and turns on every light bulb. Person 2 walks in the room and flips the switch on every 2nd light bulb (i.e. he turns off all even numbered light bulbs). Person 3 walks in the room and flips the switch on every 3rd light bulb (turning some on and some off). This process continues until person 100 goes through and flips the switch on the 100th light bulb. Which light bulbs will be lit up at the end?
+BankofAmerica," Questions could be very detail in techniques, make sure you remember all projects you've been working on."
+D.E.Shaw&Co.-InvestmentFirm," Which is more: a) the number of stars in our galaxy, or b) the number of grains of sand that will fit in a 5 gallon bucket. How do you estimate both (a) and (b) using reasonable assumptions that a normal lay-person could verify/agree-with?"
+CapitalOne," If I roll a dice, guess what I will ask you."
+Acumen, walk me through your resume.
+GoldmanSachs, What should you pay attention to when you are trading
+CMEGroup, How would you model an FX swap?
+BankofAmerica," What is the standard deviation of this set of numbers (1, 2, 3, 4, 5)"
+OptionsGroup, Why did you relocate to this other city?
+Google," The on-site interviews were not so easy. One thing to note: I have 20 years of experience and a strong track record of getting results. The interviewers had zero interest in what I've done before. Instead it was white boarding all the way. Felt more like an old-school math class -- go to the board and solve this problem -- than a job interview. Toughest question? Honestly, this was 4 years ago and I don't recall precisely. I think it was how to determine mean standard deviation of two blended datasets for which you know their means and standard deviations (and maybe Ns) but for which you've lost the original data. Turns out it's a classic you'll probably encounter in first year statistics, but I hadn't thought about it in about 25 years and so stumbled. "
+Google," An ice cream shop wants to determine the probability of any random customer buying one of their three flavors, based on their historical data set. "
+IntercontinentalExchange, Q: Do you have a heartbeat and are you breathing?
+IntercontinentalExchange," Q: Are you satisfied with consistently being average, never under-performing, but capable of doing the bare minimum to stay above the bottom 30% and off the radar?"
+HelloWorld, They asked me questions about particular Apple iOS Class interfaces.
+Acumen, Why Acumen? 
+GoldmanSachs, Why do you need virtual destructors?
+U.S.Bank, Was asked to interpret their SAS code.
+KnightCapital," At some point in time there are N cars moving on the same direction on a one-lane road. Their speeds form a random sample of some continuous distribution. Each car will move at its current speed unless it reaches another (slower) car, at which point it will slow down to the speed level of the slower car. What is the expected number of car clusters that will be observed in the long run? "
+Acumen, The phone interview went in depth into past research. Be prepared to discuss it.
+Hired, Please update your profile on our database. Pls put desired salary down as 100K (which is less than I am making now). Please indicate you are a software engineer (I am NOT a software engineer). 
+MorganStanley," If three random variables all have pairwise correlation rho, then what are the possible values of rho? "
+JaneStreet, Cloud raining or no cloud raining 
+Sentrana, what is k means clustering
+Citadel," You are given an array of integers, A1, A2, ..., An, including negatives and positives, and another integer S. Now we need to find three different integers in the array, whose sum is closest to the given integer S. If there exists more than one solution, any of them is ok. Is there an algorithm to find the three integers in O(n^2) time?"
+Citi," 5) What other question did you expect me to ask from your resume, that I must have missed? (Weird! I was unprepared for this)"
+MIT, When can the yield go negative
+MIT, What is the yield of a treasury bond
+Google, What is the yearly standard deviation of a stock given the monthly standard deviation?
+D.E.Shaw&Co.-InvestmentFirm," The most unexpected questions was how would you color a 3-colorable graph. I was initially thinking that you had to do something efficient, which isn't possible, but he just wanted some way of doing it."
+Allstate," If you have 8 balls and a scale. If you can only take two measurements, how do you find the one ball that is lighter than the other 7? "
+ChathamFinancial, how would you explain Taylor expansion to someone who doesn't know any math at all...
+DeutscheBank, Do you like markets? Convince me. 
+TwoSigma, tell me about finite element methods. 
+Citi, Tell me some algorithms about recursion and sequence. Game theory is about distribution and the second one beat me in addition to the t-distribution.
+DeutscheBank," The technical interview consisted of a variety of questions on pricing, Fixed Income, numerical analysis. One question was: You are at the horse racetrack. Four horses are racing. Betting on any horse costs $100. Betting on the first three horses pays off $400. The fourth horse pays off $399. If you can both take and ""write"" bets, what is your strategy for riskless profit?"
+Acumen, well all questions were all right.
+Citi," what is the square root of 64,000?"
+RLSIndustries, they asked if i had used a program called infusion soft
+Yammer, Probability/brainteaser type questions
+Citi, empty class size
+Acumen, Why are you interested in Acumen?
+Acumen, Tell me about your resume
+RegionsFinancial, Where would you get data if it were hard to find?
+Quantlab, Can you tell anything about the correlation of the security who has variance pointing high and low ?
+Quantlab, Describe what does eigenvector physically means ?
+Google, Would you prefer to have new products through innovation or focus on your current main products? Please provide me some examples from your prior experiences to answer this question.
+J.P.Morgan, How would you estimate pi?
+Property&PortfolioResearch, -do you have any statistic modelling/analysis experience? describe it. -any CRE experience?
+AKUNACAPITAL," If an nxn matrix is populated with 0 or 1 randomly, what is the probability that it is non-singular."
+TwoSigma, How do you decide which variables are the most important in a regression.
+BloombergL.P., Tell us about your resume.
+AKUNACAPITAL," If three points are randomly selected on the sides of a square, what is the probability that the triangle formed by the points contains the center of the square. "
+JaneStreet, I had the infamous 30-sided-die-two-player game alluded to in other posts.
+CapitalOne, How could you calculate the area of the circle numerically?
+BankofAmerica," Why finance? Why Bank of America? Simple technical questions on Greeks, VBA, and VaR. A question on CDS. Give an example where you explained some concepts to someone without a technical background. How would you start solving a problem from scratch without any references or external help? "
+BNYMellon, Talk about a project that you have worked on and what were the results.
+JaneStreet, You'd better react quickly. Or they'll think you are not smart enough.
+FirstRepublicBank, Basic SQL and statistics questions.
+MorganStanley," 3 variables x,y,z have equal pairwise variance. What is the possible value for Rho"
+Citi," There are 3 boxes. Each box includes 2 balls. The first one includes 2 black ball, the second one includes one black and one white and the last one includes 2 white balls. Pick 2 balls from one box. The first one is white. Then, what's the probability that the second one is also be a white?"
+MorganStanley, Asked about my Past work experience. Asked about my most comfortable Programming language. Do I follow the Market? What is the price of Dow and MS today. 
+TheClimateCorp," The challenge wasn't difficult, it was time consuming. It took a total of 12-15 hours for me to finish. They gave you a sample data long with 9 questions, the range of the questions covers from fit a basic linear regression model, interpretation of the interaction effects, imputation of missing values, etc."
+Google," Some basic stats questions, like test, pdf, cdf of a distribution."
+Opower," No question stood out as more difficult than the others. They did ask a couple ""case study"" type questions, which I think many people find somewhat difficult."
+GenevaTrading, How is your communication skill?
+Google," simple statistics, uniform distribution, sample size calculation"
+Quantlab, Write a pseudo code to transpose a matrix.
+Citi, What is one thing that you'd like to share that's not on your resume?
+AgilexTechnologies, None. The interview was mostly about fit.
+EY, Every question was in Chinese
+FirstRepublicBank," Some questions based on your previous project, some coding problem on R, SQL."
+Citadel, What datasets would you utilize to predict quarterly sales for company X?
